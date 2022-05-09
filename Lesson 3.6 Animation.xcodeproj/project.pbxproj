@@ -11,6 +11,10 @@
 		22A60DFF2826589B00FD693F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A60DFE2826589B00FD693F /* ContentView.swift */; };
 		22A60E012826589C00FD693F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22A60E002826589C00FD693F /* Assets.xcassets */; };
 		22A60E042826589C00FD693F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22A60E032826589C00FD693F /* Preview Assets.xcassets */; };
+		22A60E0B282672AF00FD693F /* Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A60E0A282672AF00FD693F /* Tree.swift */; };
+		22C2CB092829014200633FC7 /* Leaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C2CB082829014200633FC7 /* Leaf.swift */; };
+		22C2CB0B282956BE00633FC7 /* Cloud.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C2CB0A282956BE00633FC7 /* Cloud.swift */; };
+		22C2CB0D282960A100633FC7 /* Sun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C2CB0C282960A100633FC7 /* Sun.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		22A60DFE2826589B00FD693F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		22A60E002826589C00FD693F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22A60E032826589C00FD693F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		22A60E0A282672AF00FD693F /* Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tree.swift; sourceTree = "<group>"; };
+		22C2CB082829014200633FC7 /* Leaf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leaf.swift; sourceTree = "<group>"; };
+		22C2CB0A282956BE00633FC7 /* Cloud.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cloud.swift; sourceTree = "<group>"; };
+		22C2CB0C282960A100633FC7 /* Sun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sun.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				22A60DFC2826589B00FD693F /* Lesson_3_6_AnimationApp.swift */,
 				22A60DFE2826589B00FD693F /* ContentView.swift */,
+				22A60E0A282672AF00FD693F /* Tree.swift */,
+				22C2CB082829014200633FC7 /* Leaf.swift */,
+				22C2CB0A282956BE00633FC7 /* Cloud.swift */,
+				22C2CB0C282960A100633FC7 /* Sun.swift */,
 				22A60E002826589C00FD693F /* Assets.xcassets */,
 				22A60E022826589C00FD693F /* Preview Content */,
 			);
@@ -137,6 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22C2CB0B282956BE00633FC7 /* Cloud.swift in Sources */,
+				22A60E0B282672AF00FD693F /* Tree.swift in Sources */,
+				22C2CB0D282960A100633FC7 /* Sun.swift in Sources */,
+				22C2CB092829014200633FC7 /* Leaf.swift in Sources */,
 				22A60DFF2826589B00FD693F /* ContentView.swift in Sources */,
 				22A60DFD2826589B00FD693F /* Lesson_3_6_AnimationApp.swift in Sources */,
 			);
